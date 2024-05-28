@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-- The Developer can add notes to the .html page within each card "<section>" based on topic.
+- The Developer can add notes to the .html page within each card section based on topic.
 - JavaScript functions can be altered to console log various outputs in the Chrome DevTools console.
 
 ## Credits
